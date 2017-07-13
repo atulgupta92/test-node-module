@@ -1,11 +1,11 @@
 {
-  "name": "@gupta.atul/test",
+  "name": "testnodeprivate",
   "description": "Higher-order functions and common patterns for asynchronous code",
   "version": "1.0.1",
   "main": "dist/test.js",
   "author": "atul gupta",
   "keywords": [
-    "test",
+    "testnodeprivate",
     "callback",
     "module",
     "utility"
