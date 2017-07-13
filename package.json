@@ -1,11 +1,11 @@
 {
   "name": "@gupta.atul/test",
   "description": "Higher-order functions and common patterns for asynchronous code",
-  "version": "2.5.0",
-  "main": "dist/async.js",
-  "author": "Caolan McMahon",
+  "version": "1.0.1",
+  "main": "dist/test.js",
+  "author": "atul gupta",
   "keywords": [
-    "async",
+    "test",
     "callback",
     "module",
     "utility"
