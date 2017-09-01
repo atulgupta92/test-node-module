@@ -1,6 +1,6 @@
 // This is not the main file in the npm package, but here so we can use github
 // tarballs as packages when necessary.
 function testing(){
-	console.log("testing npm khelo");
+	console.log("testing npm daudo");
 }
 module.exports = require("./build/");
